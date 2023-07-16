@@ -1,0 +1,15 @@
+D:\Visual Studio\ModuleEnd\Weekday\bin\Debug\net7.0\Weekday.exe
+D:\Visual Studio\ModuleEnd\Weekday\bin\Debug\net7.0\Weekday.deps.json
+D:\Visual Studio\ModuleEnd\Weekday\bin\Debug\net7.0\Weekday.runtimeconfig.json
+D:\Visual Studio\ModuleEnd\Weekday\bin\Debug\net7.0\Weekday.dll
+D:\Visual Studio\ModuleEnd\Weekday\bin\Debug\net7.0\Weekday.pdb
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.csproj.AssemblyReference.cache
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.AssemblyInfoInputs.cache
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.AssemblyInfo.cs
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.dll
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\refint\Weekday.dll
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.pdb
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\Weekday.genruntimeconfig.cache
+D:\Visual Studio\ModuleEnd\Weekday\obj\Debug\net7.0\ref\Weekday.dll
